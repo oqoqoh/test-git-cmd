@@ -2,6 +2,7 @@
 
 git 연습용 레포
 
+<<<<<<< HEAD
 ## git add
 
 -   사용법 : got add <추가할 경로>
@@ -17,3 +18,6 @@ git 연습용 레포
 ## git diff
 
 -   이전 기록(commit)을 기준으로 변경사항을 본다.
+=======
+## branch pizza
+>>>>>>> pizza
